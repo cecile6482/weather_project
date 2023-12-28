@@ -1,0 +1,18 @@
+{
+  "name": "weather_project",
+  "version": "1.0.0",
+  "description": "a weather project using vue, node, an api and an ai ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cécile El Shtby",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "ws": "^8.16.0"
+  }
+}
